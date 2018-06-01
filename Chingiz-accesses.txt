@@ -1,0 +1,10 @@
+url: site/wp-login.php
+site: Chingiz
+user: admin
+pass: Bbj1)bWv)nRAHcn)ZL
+mail: ablehands@ukr.net
+
+
+base: chingiz
+ser: username
+pass: ugRna1An
